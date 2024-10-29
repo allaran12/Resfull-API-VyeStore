@@ -25,8 +25,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Project api yang menggunakan laravel serta menggunakan filamnet 3x untuk web game store  
 
-Install package:
-c composer install.
+c Install package:
+- composer install.
 
-Menyalakan laravel:
-c php artisan ser.
+c Menyalakan laravel:
+- php artisan ser.
